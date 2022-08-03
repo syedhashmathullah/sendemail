@@ -1,6 +1,7 @@
 name: Send email
 description: Send an email to multiple recipients
-author: dawidd6
+# author: dawidd6
+author: syedhashmathullah
 branding:
   icon: mail
   color: blue
